@@ -1,0 +1,52 @@
+body {
+  background-image: linear-gradient(#9C15F4	, #80CA00);
+}
+
+.buttons {
+  align-self:middle;
+}
+
+.header {
+    font-size: 20px;
+    font: arial bold 40px/30px Georgia, serif;
+    border: 2px solid #F75301;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    background: #1AD3DC;
+    color: black;
+    font-size: 25px;
+}
+
+p.a {
+  align-self: middle;
+  font: arial bold;
+  font-size: 10px;
+  image-align: middle;
+  text-align: middle;
+}
+
+p.b {
+  align-self: middle;
+  font: arial bold;
+  font-size: 20px;
+  image-align: middle;
+  text-align: middle;
+}
+
+p.c {
+    align-self: middle;
+    font: arial bold;
+    font-size: 20px;
+    image-align: middle;
+    text-align: middle;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.simon {
+  text-align: middle;
+  align-self: middle;
+}
