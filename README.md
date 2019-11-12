@@ -1,2 +1,2 @@
 # simongame
-Hi xd
+Hi XD
